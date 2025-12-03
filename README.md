@@ -6,7 +6,7 @@ It combines **theory + hands-on code** so you can learn, revise, and showcase ob
 ---
 ![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20212929.png)
 ![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20213040.png)
-![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20213114.png)
+![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20213254.png)
 ---
 
 ## 📌 Features
