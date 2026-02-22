@@ -14,8 +14,6 @@ Learn it. Run it. Explain it confidently.
 
 ## 📸 Demo Preview
 
-![Image](https://www.researchgate.net/publication/372940300/figure/fig4/AS%3A11431281225303626%401708658285236/Output-of-the-YoLo-object-detection-process.png)
-
 ![Image](https://images.prismic.io/encord/ZypBLq8jQArT0Of-_13.avif?auto=format%2Ccompress)
 
 ![Image](https://camo.githubusercontent.com/2040d2c6d2fdd9c35acffeaec718b2de77b3265ff9145b0003fc26816454d3e4/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a504d35512d3538654e4f57646f4c6f67564b43476e512e706e67)
