@@ -104,7 +104,7 @@ Minimal. Structured. Interview-focused.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/YOLO-Object-Detection-Tutorial.git
+git clone https://github.com/Tanmay1112004/YOLO-Object-Detection-Tutorial.git
 cd YOLO-Object-Detection-Tutorial
 ```
 
