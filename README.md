@@ -169,7 +169,7 @@ Final Object Detection Output
 ## 🚀 Quick Start
 
 ```bash id="runyolo1"
-git clone https://github.com/Tanmay1112004/YOLO-Object-Detection-Tutorial.git
+git clone https://github.com//YOLO-Object-Detection-Tutorial.git
 cd YOLO-Object-Detection-Tutorial
 pip install ultralytics opencv-python-headless gradio
 ```
