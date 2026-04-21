@@ -32,6 +32,8 @@ This project bridges that gap by combining:
 
 ![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20212929.png)
 
+![demo](https://github.com/Tanmay1112004/YOLO-Object-Detection/blob/main/YOLO-Object-Detection/screenshots/Screenshot%202025-09-11%20213004.png)
+
 
 ---
 
